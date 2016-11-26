@@ -5,6 +5,7 @@
     I made this little program to review my DirectX 9.0c knowlage, not for making a good game.
     I did not have a perfect plan before coding, so this program has some problems. I will show you later.
     It is a little game, but the spirit moved by force. Gravity, friction, acting force and reacting force.
+    It modeled Super Mario on FC, but it is different from FC.
     I updated this little mess program, because i want to make more friends with game programmers.
 ## Some tips of Super Myrio:
 ###    In the menu:

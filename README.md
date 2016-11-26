@@ -1,3 +1,4 @@
+
 # Super-Myrio
 ## Program Finished Date: 2016/9/29
     A little mario game
@@ -27,6 +28,11 @@
      Find them baby!
         PRATTLE: What's the fuck? GALGAME? Is there a princess suck Myrio's **?
                  ME:....
+###     Reward:
+       Three kinds of mushroom.
+       Orange: Make myrio big.
+       green: you need collect them.
+       the other: poison.
 ## Some bugs -- VERY IMPORTANT!
 ### 1. Do you want to close window? HA.. NOWAY!
        Some times, you will find that you can not close the game window. 
